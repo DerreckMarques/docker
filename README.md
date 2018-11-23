@@ -1,6 +1,6 @@
 # docker
 
-ocker run -ti debian:9 bash
+docker run -ti debian:9 bash
 
 
 #subir serviços
